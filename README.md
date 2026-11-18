@@ -72,15 +72,7 @@ Public transcriptomic datasets referenced in the paper are available through
 GEO. Anything else required for reanalysis can be requested from the
 corresponding author.
 
----
 
-## Also available: MicroFaceV2
-
-[**MicroFace_V2**](https://github.com/VatsJari/MicroFace_V2) is an installable
-R package that wraps the analysis half of this workflow in a documented
-function API, with Gaussian mixture clustering and k-selection helpers. Use it
-when you want to script the analysis rather than follow it step by step. It is
-a generalised reimplementation and does not reproduce the published numbers.
 
 ---
 
